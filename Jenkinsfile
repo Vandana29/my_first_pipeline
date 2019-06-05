@@ -9,6 +9,6 @@ sh 'echo "hey, this is stage two folks!"'
 stage ('stage3'){
 sh 'echo "hey, this is stage three folks!"'
 }
-y
+
 }
 
